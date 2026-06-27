@@ -1,4 +1,4 @@
-# 🔍 Brute Force Attack Analysis — RDP (Real Lab Capture)
+# Brute Force Attack Analysis — RDP (Real Lab Capture)
 
 This case replaces the earlier theoretical brute force write-up with a fully reproduced attack, executed and captured end-to-end in my own home SOC lab — not a simulated/theoretical scenario.
 
